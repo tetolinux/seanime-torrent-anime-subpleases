@@ -1,0 +1,12 @@
+{
+  "id": "subsplease-torrent-provider",
+  "name": "SubsPlease Torrent Provider",
+  "description": "Natively tracks and pulls anime torrent streams from SubsPlease.",
+  "manifestURI": "https://raw.githubusercontent.com/tetolinux/seanime-torrent-anime-subpleases/main/manifest.json",
+  "version": "1.0.0",
+  "author": "tetolinux",
+  "type": "anime-torrent-provider",
+  "language": "javascript",
+  "lang": "en",
+  "payloadURI": "https://raw.githubusercontent.com/tetolinux/seanime-torrent-anime-subpleases/main/provider.js"
+}
